@@ -83,7 +83,7 @@ music_db = {
 }
 
 # 4. 헤더 타이틀 영역 🎀
-st.markdown('<div class="main-title">🦄 요정의 커스텀 주크박스 🦄</div>', unsafe_allow_html=True)
+st.markdown('<div class="main-title">🦄 노래를 추천해드려요 🦄</div>', unsafe_allow_html=True)
 st.markdown('<div class="sub-title">지금 내 맘에 쏙 드는 감정과 완벽한 시간대를 골라봐요! 🔮✨</div>', unsafe_allow_html=True)
 
 st.divider()
