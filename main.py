@@ -2,7 +2,7 @@ import streamlit as st
 
 # 1. 페이지 기본 설정 🎒
 st.set_page_config(
-    page_title="내 마음의 주크박스 🎶",
+    page_title="노래를 추천해드려요 🎶",
     page_icon="🦄",
     layout="centered"
 )
